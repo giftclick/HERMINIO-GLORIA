@@ -25,7 +25,7 @@
  }
 
 
-const weddingDate = new Date("December 27, 2025 12:00:00").getTime();
+const weddingDate = new Date("Dec 27, 2025 12:00:00").getTime();
     
     // Actualizar el contador cada segundo
     const countdown = setInterval(function() {
