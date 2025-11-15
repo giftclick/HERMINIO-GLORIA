@@ -195,7 +195,7 @@ footer > p {
   font-style: italic;
   margin: 30px auto;
   max-width: 85%;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.8;
   font-family: "Cormorant Garamond", serif;
 }
@@ -372,7 +372,7 @@ footer > p {
 }
 
 .countdown-value {
-  font-family: "Bodoni Moda", serif;
+  font-family: serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1;
