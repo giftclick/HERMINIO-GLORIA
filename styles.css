@@ -65,7 +65,7 @@ footer div p {
 }
 
 footer > p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .footergitfclick {
@@ -159,7 +159,7 @@ footer > p {
 .subheader {
   display: flex;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 10px;
   font-family: "Bodoni Moda", serif;
   font-weight: 500;
@@ -186,7 +186,7 @@ footer > p {
   text-align: center;
   font-style: italic;
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Bodoni Moda", serif;
 }
 
@@ -195,7 +195,7 @@ footer > p {
   font-style: italic;
   margin: 30px auto;
   max-width: 85%;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.8;
   font-family: "Cormorant Garamond", serif;
 }
@@ -302,7 +302,7 @@ footer > p {
 .subheader {
   display: flex;
   justify-content: space-around;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 10px;
   font-family: "Bodoni Moda", serif;
   font-weight: 500;
@@ -380,8 +380,8 @@ footer > p {
 }
 
 .countdown-label {
-  font-family: "Cinzel", serif;
-  font-size: 14px;
+  font-family: serif;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -581,7 +581,7 @@ a {
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
   border: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Cormorant Garamond", serif;
 }
 
@@ -710,7 +710,7 @@ a {
   }
 
   .countdown-label {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .countdown-item:not(:last-child)::after {
